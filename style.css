@@ -1,0 +1,121 @@
+/* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: white;
+position: fixed;
+top: 0;
+width: 100%;
+  
+    display: flex;
+    height: 45px;
+    border-bottom: solid 1px #e2e2e2;
+    align-items: center;
+    justify-content: space-between;
+    width: 100vw;
+    padding: 20px;
+  }
+  .navleft {
+        float: right;
+        }      
+
+
+   .nav-right{
+       float: right;
+
+  }
+  
+  
+  .btn{
+      height: 30px;
+      margin-right: 7px;
+      padding: 11px 12px 8px;
+      background-color: #567b95;
+      color: #fff;
+      border: none;
+      border-radius: 3px;
+      font-weight: 500;
+      font-size: 12px;
+      cursor: pointer;}
+
+      .nav-left .fas {
+        margin: 20px;
+    color: black;}
+
+.newyork-logo{
+    width: 200px;
+}
+
+/* MAIN SECTION */
+.image-heading{
+font: 200px;
+text-align: center;
+border-bottom-width: 2px;
+border-block-start-color: black;
+}
+.social-icons{
+    align-items: center;
+    border-radius: 100%;
+    padding:10px;
+    margin: 10px;
+    color:black
+
+}
+  .section{
+
+width: 600px;
+    
+margin: 0 auto;
+}
+aside{
+
+    width: 15%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+    
+}
+.image{
+    padding-top: 100px;
+    width: 900px;
+    
+    margin: 0 auto;
+        }
+
+
+.column{
+float:left;
+width:25%;
+
+
+}
+.row1{
+padding-top: 150px;
+padding-bottom: 250px;
+}
+.theoryInflation{
+    background-size: 100% 100%;
+  font-size: 13px;
+  background-image: url("https://static01.nyt.com/newsgraphics/2014/03/18/theory-of-inflation/1ebaa1b972edda0f407fbaa0e010f6b50fb6792e/inflation-945.png");
+  background-position: top;
+  height: 600px;
+  background-repeat: no-repeat;}
+
+
+    .column-footer-one{
+        width: 70%;
+    }
+    .column-footer-two{
+        width: 30%;
+        float: right;
+        position: top;
+    }
+.image-card{
+    float: left;
+width: 33.33%;
+}
+
+
+
+    
