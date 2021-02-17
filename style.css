@@ -19,6 +19,7 @@
 
 .nav-right {
   float: right;
+  padding-right: 50px;
 }
 
 .btn {
@@ -65,12 +66,19 @@
 }
 
 aside {
+  flex-grow: 2;
   width: 15%;
   padding-left: 15px;
   margin-left: 15px;
+  padding-top: 300px;
   float: right;
   font-style: italic;
-  background-color: lightgray;
+}
+
+ul.no-bullets {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 .image {
