@@ -10,20 +10,15 @@
     border-bottom: solid 1px #e2e2e2;
     align-items: center;
     justify-content: space-between;
-    width: 100vw;
     padding: 20px;
-  }
-
-  
+    
   .navleft {
         float: right;
         }
         
-
    .nav-right{
        float: right;
    }
-
 
   .btn{
       height: 30px;
@@ -38,9 +33,8 @@
       cursor: pointer;
   }
 
-
-      .nav-left .fas {
-        margin: 20px;
+.nav-left .fas {
+    margin: 20px;
     color: black;
 }
 
