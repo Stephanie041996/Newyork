@@ -59,6 +59,7 @@
   border: 1px solid #fff;
   border-radius: 50px;
 }
+
 .social-icons {
   float: right;
   color: black;
@@ -85,10 +86,6 @@ aside {
   font-style: italic;
 }
 
-.bottom-menu a {
-  color: #000;
-  font-family: "Times New Roman", Times, serif;
-}
 ul {
   color: #000;
   font-family: "Times New Roman", Times, serif;
@@ -96,6 +93,7 @@ ul {
   margin: 0;
   padding: 0;
 }
+
 ul.no-bullets {
   list-style-type: none;
   margin: 0;
@@ -126,6 +124,7 @@ ul.no-bullets {
 .figcaption p {
   color: gray;
 }
+
 .theoryInflation {
   padding-right: 170px;
   padding-left: 170px;
@@ -169,6 +168,7 @@ li {
   border-bottom-style: solid;
   border-color: black;
 }
+
 footer {
   width: 100%;
   padding: 24px 40px;
@@ -198,6 +198,8 @@ footer {
 .bottom-menu a {
   font-size: 0.7em;
   padding: 8px 0;
+  color: #000;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .footer-link a {
