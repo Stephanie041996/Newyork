@@ -15,7 +15,7 @@ Fill in and position the additional sections. Don’t worry about enclosing ever
 Link to my live site here -->
 https://stephanie041996.github.io/Newyork/
 
-
+![image](https://user-images.githubusercontent.com/70282171/108333735-f0febb80-71d9-11eb-881b-54c5e9f4427e.png)
 
 This project was built using HTML and CSS
 
