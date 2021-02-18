@@ -119,3 +119,9 @@ ul.no-bullets {
   float: left;
   width: 33.33%;
 }
+li {
+  padding-top: 30px;
+  border-bottom-width: 2px;
+  border-top-style: solid;
+  border-color:grey;
+}
