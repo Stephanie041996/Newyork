@@ -3,7 +3,7 @@ https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-but
 
 we used knowledge from content on flex boxs and grids and other positioning and layout options.
 
-instructions for project
+instructions used for project build
 
 1 Create a new HTML document.
 2 Think about all the elements on the page and how they are grouped together.
@@ -14,3 +14,10 @@ Fill in and position the additional sections. Don’t worry about enclosing ever
 
 Link to my live site here -->
 https://stephanie041996.github.io/Newyork/
+
+
+
+This project was built using HTML and CSS
+
+Authors name :Stephanie Sakuhuni
+Linkedin :https://www.linkedin.com/in/stephanie-sakuhuni-a81029140/
