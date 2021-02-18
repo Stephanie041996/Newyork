@@ -67,7 +67,6 @@
   padding: 10px;
   padding-right: 400px;
   margin: 10px;
-  color: black;
 }
 
 .section {
@@ -86,7 +85,7 @@ aside {
   font-style: italic;
 }
 
-a {
+.bottom-menu a {
   color: #000;
   font-family: "Times New Roman", Times, serif;
 }
@@ -133,7 +132,6 @@ ul.no-bullets {
   background-size: 70% 70%;
   font-size: 13px;
   background-image: url("https://static01.nyt.com/newsgraphics/2014/03/18/theory-of-inflation/1ebaa1b972edda0f407fbaa0e010f6b50fb6792e/inflation-945.png");
-  background-position: top;
   height: 600px;
   background-repeat: no-repeat;
   background-position: center;
