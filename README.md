@@ -1,23 +1,59 @@
-For this project we had to create a clone and copy the HTML AND CSS Elements from
-https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0
+# Floating and positioning project
 
-we used knowledge from content on flex boxs and grids and other positioning and layout options.
-
-instructions used for project build
-
-1 Create a new HTML document.
-2 Think about all the elements on the page and how they are grouped together.
-Lay out the basic structure of the page using empty semantic HTML elements that are appropriately sized and positioned. You may want to make their background colors different so you can see them. Don’t forget to use your browser’s developer tools (right click on the page, click “Inspect Element”)!
-3 Set up the top navigation bar (again, don’t worry about making it change when you scroll down the page). How can you get it to stick to the top of the page as you scroll down?
-Fill in and position the additional sections. Don’t worry about enclosing every paragraph of text in <p> tags.
-4 Push your solution to GitHub.
-
-Link to my live site here -->
-https://stephanie041996.github.io/Newyork/
+This Is the floating and positionaing project for microverse 2.0 curriculum. in this project I have used HTML and CSS to make a clone of the New York Page given in the following link. https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0
+I am using float grid and flex and any options I choose to layout and style the options to appear like on the page. 
 
 ![image](https://user-images.githubusercontent.com/70282171/108333735-f0febb80-71d9-11eb-881b-54c5e9f4427e.png)
 
-This project was built using HTML and CSS
+## Built With
 
-Authors name :Stephanie Sakuhuni
-Linkedin :https://www.linkedin.com/in/stephanie-sakuhuni-a81029140/
+- HTML and CSS
+
+## Live Demo
+
+[Live Demo Link]https://stephanie041996.github.io/Newyork/
+
+## Getting Started
+
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
+
+
+## Authors
+
+👤 **Author1**
+GitHub: @stephanie041996
+LinkedIn: https://www.linkedin.com/in/stephanie-sakuhuni-a81029140/
+👤 Author Stephanie Sakuhuni
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
