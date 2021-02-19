@@ -162,7 +162,7 @@ ul.no-bullets {
   width: 33.33%;
 }
 
-li {
+.no-bullets li {
   padding-top: 30px;
   border-bottom-width: 1px;
   border-bottom-style: solid;
@@ -200,10 +200,13 @@ footer {
   padding: 8px 0;
   color: #000;
   font-family: "Times New Roman", Times, serif;
+  text-decoration: none;
 }
 
 .footer-link a {
   padding: 4px 4px;
+  text-decoration: none;
+  color: #000;
 }
 
 .bottom-menu a:hover {
@@ -243,7 +246,7 @@ footer {
   color: #11111181;
 }
 
-a {
+.nav-left a {
   color: #000;
   font-weight: 600;
   text-decoration: none;
