@@ -214,6 +214,7 @@ footer {
   font-weight: 600;
   text-decoration: none;
 }
+
 .bottom-menu a:hover {
   text-decoration: underline;
 }
@@ -250,5 +251,3 @@ footer {
   font-size: 1em;
   color: #11111181;
 }
-
-
