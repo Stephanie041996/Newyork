@@ -18,7 +18,7 @@ I am using float grid and flex and any options I choose to layout and style the 
 
 👤 **Author1**
 GitHub: @stephanie041996
-LinkedIn:[linkedin] (https://www.linkedin.com/in/stephanie-sakuhuni-a81029140/)
+LinkedIn: [linkedin](https://www.linkedin.com/in/stephanie-sakuhuni-a81029140/)
 👤 Author Stephanie Sakuhuni
 
 
