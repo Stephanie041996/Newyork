@@ -268,7 +268,6 @@ b {
 }
 
 .vl {
-  border-left-color: grey;
-  border-left: 1px solid;
+  border-left: 1px solid grey;
   height: 280px;
 }
