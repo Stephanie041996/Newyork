@@ -209,6 +209,11 @@ footer {
   color: #000;
 }
 
+.nav-left a {
+  color: #000;
+  font-weight: 600;
+  text-decoration: none;
+}
 .bottom-menu a:hover {
   text-decoration: underline;
 }
@@ -246,8 +251,4 @@ footer {
   color: #11111181;
 }
 
-.nav-left a {
-  color: #000;
-  font-weight: 600;
-  text-decoration: none;
-}
+
