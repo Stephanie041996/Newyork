@@ -194,7 +194,7 @@ footer {
 
 .bottom-menu {
   flex: 1;
-  margin: 24px 40px;
+  margin: 24px 150px;
   display: flex;
   justify-content: space-between;
 }
@@ -260,4 +260,15 @@ footer {
   margin: 12px auto;
   font-size: 1em;
   color: #11111181;
+}
+
+b {
+  font-size: 14px;
+  padding-bottom: 200px;
+}
+
+.vl {
+  border-left-color: grey;
+  border-left: 1px solid;
+  height: 280px;
 }
