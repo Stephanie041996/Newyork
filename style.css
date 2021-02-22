@@ -1,0 +1,273 @@
+/* Style the top navigation bar */
+body {
+  overflow-x: hidden;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  height: 5px;
+  border-bottom: solid 1px #e2e2e2;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.navleft {
+  float: right;
+}
+
+.nav-right {
+  float: right;
+  padding-right: 50px;
+}
+
+.btn {
+  height: 30px;
+  margin-right: 7px;
+  padding: 11px 12px 8px;
+  background-color: #567b95;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  font-weight: 500;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.nav-left .fas {
+  margin: 20px;
+  color: black;
+}
+
+.newyork-logo {
+  width: 200px;
+}
+
+/* MAIN SECTION */
+.image-heading {
+  font-size: 18px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: gray;
+  text-align: left;
+  padding-left: 190px;
+  padding-right: 150px;
+}
+
+.social-icons a {
+  padding: 8px;
+  color: black;
+  background-color: #11111115;
+  border: 1px solid #fff;
+  border-radius: 50px;
+  font-size: 0.73em;
+  background-size: 0.83em;
+}
+
+.social-icons {
+  float: right;
+  color: black;
+  align-items: center;
+  border-radius: 100%;
+  padding: 10px;
+  padding-right: 500px;
+  margin: 10px;
+  padding-bottom: 50px;
+}
+
+.section {
+  width: 600px;
+  margin: 0 auto;
+}
+
+aside {
+  flex-grow: 2;
+  width: 10%;
+  padding-right: 85px;
+  margin-right: 15px;
+  padding-top: 200px;
+  padding-bottom: 100px;
+  float: right;
+  font-style: italic;
+}
+
+ul {
+  color: #000;
+  font-family: "Times New Roman", Times, serif;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.no-bullets {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.image {
+  padding-top: 100px;
+  width: 900px;
+  margin: 0 auto;
+}
+
+.column {
+  float: left;
+  width: 25%;
+}
+
+.row1 {
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.figcaption {
+  align-items: center;
+  padding-left: 200px;
+}
+
+.figcaption p {
+  color: gray;
+}
+
+.theoryInflation {
+  padding-right: 170px;
+  padding-left: 170px;
+  background-size: 70% 70%;
+  font-size: 13px;
+  background-image: url("https://static01.nyt.com/newsgraphics/2014/03/18/theory-of-inflation/1ebaa1b972edda0f407fbaa0e010f6b50fb6792e/inflation-945.png");
+  height: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.suggestednewsletters {
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.column-footer-one {
+  border-top-width: 1px;
+  border-color: black;
+  border-top-style: solid;
+  padding-right: 70px;
+  width: 70%;
+}
+
+.column-footer-two {
+  border-top-width: 1px;
+  border-color: black;
+  border-top-style: solid;
+  width: 30%;
+  float: right;
+}
+
+.image-card {
+  float: left;
+  width: 33.33%;
+}
+
+.no-bullets li {
+  padding-top: 30px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: black;
+}
+
+footer {
+  width: 100%;
+  padding: 24px 40px;
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.logo {
+  width: 100%;
+  height: 40px;
+}
+
+.bottom-menu {
+  flex: 1;
+  margin: 24px 150px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.bottom-menu ul li:first-child {
+  font-size: 0.8em;
+  font-weight: 700;
+  padding-bottom: 12px;
+}
+
+.bottom-menu a {
+  font-size: 0.7em;
+  padding: 8px 0;
+  color: #000;
+  font-family: "Times New Roman", Times, serif;
+  text-decoration: none;
+}
+
+.footer-link a {
+  padding: 4px 4px;
+  text-decoration: none;
+  color: #000;
+}
+
+.nav-left a {
+  color: #000;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.bottom-menu a:hover {
+  text-decoration: underline;
+}
+
+.logo > div:nth-child(2) {
+  margin-left: 40px;
+}
+
+.footer-link {
+  font-size: 0.6em;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-link a:hover {
+  text-decoration: underline;
+}
+
+.footer-top-line {
+  background-color: #fff;
+  border-bottom: 1px solid #e2e2e2;
+  border-top: 2px solid #e2e2e2;
+  content: "";
+  display: block;
+  height: 1px;
+  margin-top: 0;
+}
+
+.copyright {
+  margin: 12px auto;
+  font-size: 1em;
+  color: #11111181;
+}
+
+b {
+  font-size: 14px;
+  padding-bottom: 200px;
+}
+
+.vl {
+  border-left: 1px solid grey;
+  height: 280px;
+}
