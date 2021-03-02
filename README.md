@@ -1,6 +1,6 @@
 # Floating and positioning project
 
-This Is the floating and positionaing project for microverse 2.0 curriculum. in this project I have used HTML and CSS to make a clone of the New York Page given in the following link. https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0
+This Is the floating and positionaing project for microverse 2.0 curriculum. in this project I have used HTML and CSS to make a clone of the New York Page given in the following link. [newyork-original](https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=)
 I am using float grid and flex and any options I choose to layout and style the options to appear like on the page. 
 
 ![image](https://user-images.githubusercontent.com/70282171/108333735-f0febb80-71d9-11eb-881b-54c5e9f4427e.png)
